@@ -12,4 +12,5 @@ Encuentra más información en :
 * [Comunidad Modyo](https://es.modyo.com/comunidad)
 
 * [Documentación Oficial](https://docs.modyo.com/)
- 
+
+* [Documentación de componentes Dynamic](https://react.dynamicframework.dev/)
