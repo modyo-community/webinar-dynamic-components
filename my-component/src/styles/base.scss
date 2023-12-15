@@ -1,0 +1,6 @@
+@import "@dynamic-framework/ui-react/src/style/abstracts/+import";
+
+body {
+  background-color: rgb(var(--#{$prefix}secondary-soft-rgb));
+  font-family: "DM Sans", sans-serif;
+}
